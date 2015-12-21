@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/bin/python
 #
 # Best Wine Twitter Bot v1.0 by @m3th4mp (http://www.geekdime.com)
 #
