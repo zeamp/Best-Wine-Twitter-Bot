@@ -22,4 +22,5 @@ more automated interaction. I have also thought about using the
 Markov chain in one of its random tweets and fill the bot with a
 large wine-related script.
 
-Drink one for me.
+Since I'm a little new to Python, we are using Bash to do a lot of
+our work. Soon, we'll be pure Python! Drink one for me.
