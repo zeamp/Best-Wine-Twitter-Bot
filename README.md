@@ -1,5 +1,5 @@
-# Best Wine Twitter Bot v1.0 by @m3th4mp
-(http://www.geekdime.com)
+# Best Wine Twitter Bot v1.0 by @zeampvqtx
+(https://vqtx.com)
 
 An automated Twitter bot written in Python attempts to review wine
 and usually makes hilarious mistakes. Sometimes it drinks too much
