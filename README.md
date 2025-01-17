@@ -1,5 +1,6 @@
 # Best Wine Twitter Bot v1.0 by @zeampzpvy
-(https://www.zpvy.com)
+https://www.abovelinks.com/ze
+Note: Defunct now that Elon Musk bought Twitter and renamed it X.
 
 An automated Twitter bot written in Python attempts to review wine
 and usually makes hilarious mistakes. Sometimes it drinks too much
